@@ -1,1 +1,1 @@
-# Hackathon-
+This repository is for our hackathon project.# Hackathon-
